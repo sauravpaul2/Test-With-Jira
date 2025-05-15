@@ -19,3 +19,5 @@ deployments:
       - "produção"
       - "продакшн"
       - "PROD-*"
+      - "github-pages"
+      - "github-*"
